@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+{% extends "cruiseWeb/base.html" %}
+{% load staticfiles %}
+{% load temp_extra %}
+  {% block head_block %}
+  <title>CRUISE: Project</title>
+  {% endblock %}
+  {% block body_block %}
+
+  <div class="divBlock projBlock2">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-4">
+          <img src="{% static "images/logo.png"%}" alt="">
+        </div>
+        <div class="col-lg-8 testCenter">
+          <h1>What is it?</h1>
+          <p class="descriptionText">CRUISE is a traffic reporting system that gathers information through crowdsourcing. CRUISE crawls traffic
+          related data from Twitter and processes it into useful data which could be useful to the users.</p>
+        </div>
+      </div>
+      <br>
+    </div>
+  </div>
+
+  <div class="divBlock projBlock2">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <h1>Motivation</h1>
+          <p class="descriptionText">Enclosed vehicles have applications like Waze, Google Maps, which allows them can avoid traffic congestion.
+            Howeverm, semi-enclosed vehicles doesn’t have such luxury. Using these apps will rob them of their attention.
+            Thus this project conveys a way to transmit the traffic data to the motorcyclists through crowd-sourcing through Twiter
+            or the app users (PHASE 2).</p>
+        </div>
+        <div class="col-lg-4">
+          <img src="{% static "images/TwitterLogo.png"%}" alt="">
+        </div>
+      </div>
+      <br>
+    </div>
+  </div>
+
+  <div class="divBlock projBlock2">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-4">
+          <img src="{% static "images/question.jpeg"%}" alt="">
+        </div>
+        <div class="col-lg-8 justLeft">
+          <h1>How it works</h1>
+          <p class="descriptionText">CRUISE crawls and filters the traffic related tweets from Twitter. The tweets are then passed on to undergo a
+          series of NLP processes to obtain the traffic location and the traffic states. After that, contextual analysis
+          is carried out to relate the relationships between the locations and traffic state. Reconciliation is then
+          carried out to conclude the actual traffic states of respective locations and then stored into the database.</p>
+        </div>
+        <br>
+      </div>
+    </div>
+  </div>
+
+  <div class="divBlock projBlock2">
+    <div class="container">
+      <div class="row">
+        <h1>How to obtain it</h1>
+        <div class="col-lg-8">
+          <p class="descriptionText">It's easy ! Just install the CRUISE app and it will report the traffic conditions around* you (depending on
+            the sensitivity set). Currently the app is on closed beta, it will be available for public soon !</p>
+        </div>
+        <div class="col-lg-4">
+          <img src="{% static "images/comingSoon.png"%}" alt="">
+        </div>
+      </div>
+      <br>
+    </div>
+  </div>
+
+  <div class="divBlock projBlock2">
+    <div class="container">
+      <h1>Programming Languages Involved</h1>
+
+      <div class="row">
+        <div class="col-sm-6 col-md-4">
+          <div class="thumbnail">
+            <img class="smallThumb" src="{%static "images/python.png"%}" alt="...">
+            <div class="caption">
+              <h3 class="label_text">Python</h3>
+              <p class="classCenter"><a href="https://www.python.org/" class="btn btn-primary" role="button">Visit Page</a></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-6 col-md-4">
+          <div class="thumbnail">
+            <img class="smallThumb" src="{%static "images/django.png"%}" alt="...">
+            <div class="caption">
+              <h3 class="label_text">Django</h3>
+              <p class="classCenter"><a href="https://www.djangoproject.com/" class="btn btn-primary" role="button">Visit Page</a></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-6 col-md-4">
+          <div class="thumbnail">
+            <img class="smallThumb" src="{%static "images/android.jpg"%}" alt="...">
+            <div class="caption">
+              <h3 class="label_text">Android</h3>
+              <p class="classCenter"><a href="https://www.android.com/" class="btn btn-primary" role="button">Visit Page</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+
+
+  {% endblock %}

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+{% extends "cruiseWeb/base.html" %}
+{% load staticfiles %}
+  {% block head_block %}
+  <title>CRUISE: Tech</title>
+  {% endblock %}
+  {% block body_block %}
+
+  <div class="divBlock block1">
+    <div class="container">
+      <h1>Technologies Behind</h1>
+      <h2>Overall Architecture</h2>
+      <img class="bigImage classCenter" src="{% static "/images/overallArc.jpg" %}" alt="">
+      <br>
+      <p>There are five main components in the system which includes:</p>
+      <ul>
+        <li><b>Crawler</b>: Twitter API crawler to crawl the traffic data</li>
+        <li><b>NLP</b>: Natural Language Processes where the data is being extracted and interpreted</li>
+        <li><b>Phone/End node</b>: An android phone that runs the software solution</li>
+        <li><b>User</b>: Participant of the system</li>
+        <li><b>Web Service</b>: Interacts with the database and the phone</li>
+      </ul>
+
+    </div>
+  </div>
+
+
+  <div class="divBlock block2">
+    <div class="container">
+      <h1>NLP</h1>
+      <h2>Named Entity Recognition</h2>
+      <img src="{% static "images/NER.gif" %}" alt="">
+      <br>
+      <p class="descriptionText">Named Entity Recognition (NLP) is the process of extracting named entity (which commonly are Nouns)
+      from the text. The NER system in tweaked to add the extra ability in extraction of traffic state.</p>
+      <br>
+    </div>
+  </div>
+
+
+
+  <div class="divBlock block3">
+    <div class="container">
+      <h2>Contextual Analysis</h2>
+      <img src="{% static "images/CA.gif" %}" alt="">
+      <br>
+      <p class="descriptionText">Contextual Analysis is the process to understand the text in sentence level. In this project,
+      contextual analysis is cruitial in relating the relationship of the extracted data for analysis.</p>
+      <br>
+    </div>
+  </div>
+
+  <div class="divBlock block4">
+    <div class="container">
+      <h2>Reconciliation</h2>
+      <img src="{% static "images/recon.gif" %}" alt="">
+      <p class="descriptionText">There is possibilities that the extracted data contradicts with each other. This is where the
+      reconciliation takes place. This process will weight the data and make a conclusion for the traffic
+      state for the respective data.</p>
+      <br>
+    </div>
+  </div>
+
+  {% endblock %}

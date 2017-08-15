@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+{% extends "cruiseWeb/base.html" %}
+{% load staticfiles %}
+  {% block head_block %}
+  <title>CRUISE: Demo</title>
+
+  <script type="text/javascript">
+        setTimeout(function() {
+            window.location.href = "/cruise/";
+        }, 5000);
+    </script>
+  {% endblock %}
+  
+  {% block body_block %}
+  <div class="container">
+    <div class="jumbotron">
+      <h1>Thanks for the response !</h1>
+      <h3>Feel free to fill up more ground truths~</h3>
+      <img src="{% static "images/thankCat.gif"%}" alt="">
+    </div>
+  </div>
+
+  {% endblock %}

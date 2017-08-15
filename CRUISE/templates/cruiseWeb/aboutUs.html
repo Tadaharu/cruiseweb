@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+{% extends "cruiseWeb/base.html" %}
+{% load staticfiles %}
+  {% block head_block %}
+  <title>CRUISE: AboutUs</title>
+  <link href="https://fonts.googleapis.com/css?family=Chewy|Permanent+Marker" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet">
+  {% endblock %}
+  {% block body_block %}
+  <div class="divBlock abUsblock1">
+    <div class="container">
+
+      <div class="row">
+        <div class="col-lg-8">
+          <h1 class="pageMainLabel">Simple facts about us</h1>
+          <br>
+          <p class="descriptionText">We are a group of researchers in Multimedia University Cyberjaya. Our group consists of 3 core personals:
+            The project leader, Dr Ian Tan, The Supervisor, Dr Bhawani and The student, Lim Cheng Yang. This project started
+          at Q4 of 2015 and the project / research revolves mainly on Data Mining and Natural Language Processing (NLP).</p>
+        </div>
+        <div class="col-lg-4">
+          <img id="mmuLogo" src="{% static "images/mmuLogo.png"%}" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="divBlock abUsblock2">
+    <div class="container">
+      <div class="row">
+        <h1 class="name">Dr. Ian Tan</h1>
+        <div class="col-lg-8">
+          <div class="">
+            <h2 class="subname">Project Leader</h2>
+            <p class="descriptionText">Ian K. T. Tan received his PhD in Information Technology from Multimedia University, Malaysia, his Master of Science in Parallel Computers and Computation from University of Warwick, United Kingdom and his Bachelor of Engineering in Information Systems Engineering from Imperial College London, United Kingdom in 2016, 1993 and 1992 respectively.
+              Prior to his current position as Lecturer at Multimedia University, Cyberjaya; he has worked in the area of microprocessor manufacturing, enterprise UNIX servers, storage management to VoIP technologies. His area of research is in operating systems scheduling for multicore processors, data transfer optimization across wide area networks and multimedia processing and analytics.
+              Dr Tan is an Associate Board Member of Teradata University Network and an Associate of the City and Guilds Institute.  He is Novell Certified Linux Administrator (NCLA), Novell Certified Linux Professional (NCLP)
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <img src="{% static "images/ian.png"%}" alt="Picture of our Handsome Ian Tan">
+        </div>
+        <br>
+      </div>
+      <br>
+    </div>
+  </div>
+
+  <div class="divBlock abUsblock3">
+    <div class="container">
+      <div class="row">
+        <h1 class="name">Dr. Bhawani</h1>
+        <div class="col-lg-8">
+          <div class="">
+            <h2 class="subname">Supervisor</h2>
+            <p class="descriptionText">Dr. Bhawani Selvaretnam is a lecturer at the Faculty of Computing and Informatics, Multimedia University. She obtained her doctorate in Information Technology from Monash University in 2013 and a Master of Science in Information Technology from the Malaysia University of Science and Technology in 2005.  She received her Bachelor of Computer Science (Hons) degree from University Malaya, Malaysia in 2003. She has 11 years of teaching experience on subjects such as computer networks, digital systems, research methods, data science etc. She also actively conducts training in the field of Data Science for various government and corporate agencies. She is a member of two research centers i.e.  Center of Web Engineering and the Data Science Institute at Multimedia University. Her research interests are in the area of natural language processing, information retrieval and social media analytics. She is currently working on research projects in the area of text analytics inclusive of social media analytics, sentiment analysis and search engine optimization. These projects are funded by government and private entities such as TM R&D, CREST and Plentisoft Sdn. Bhd
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <img src="{% static "images/ian.png"%}" alt="Picture of our Handsome Ian Tan">
+        </div>
+      </div>
+      <br>
+    </div>
+  </div>
+
+  <div class="divBlock abUsblock4">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="">
+            <h1 class="name">Lim Cheng Yang</h1>
+            <h2 class="subname">Student / Developer</h2>
+            <p class="descriptionText">Lim Cheng Yang received his Bachelor’s Degree of Computer Science specialization in Software Engineering from Multimedia University, Malaysia in 2015. He is currently pursuing Masters of Science (Information Technology) in Multimedia University, Malaysia. His research areas include Data Analytics and Natural Language Processing.
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <img src="{% static "images/ian.png"%}" alt="Picture of our Handsome Ian Tan">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="divBlock abUsblock5">
+    <div class="container">
+      <h1 class="name">Funders</h1>
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="">
+            <h2 class="subname">CREST</h2>
+            <p class="descriptionText">This article and the findings are based on work supported by the Collaborative Research in Engineering, Science & Technology (CREST) Funding under grant number P04C3-14. Any opinions given, findings, and conclusions or recommendations that is stated in this article are those of authors and do not necessarily reflect those of CREST.</p>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <img id="crestLogo" src="{% static "images/CREST_Logo.png"%}" alt="Picture of our Handsome Ian Tan">
+        </div>
+        <br>
+      </div>
+    </div>
+  </div>
+
+  {% endblock %}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+{% extends "cruiseWeb/base.html" %}
+{% load staticfiles %}
+{% load temp_extra %}
+  {% block head_block %}
+  <title>CRUISE: Survey</title>
+  {% endblock %}
+
+
+  {% block body_block %}
+  <div class="information">
+    <div class="container">
+      <h2>Please help in annotating our ground truths!</h2>
+    </div>
+  </div>
+
+  <div class="container">
+    <!-- <h1>Testing of formsets </h1> -->
+    <form method="POST">
+      {{ formset.management_form}}
+      {% for form in formset%}
+        <h3 class="tweet">{{ tweetset|index:forloop.counter0 }}</h3>
+        {{form.as_p}}
+        <hr>
+      {% endfor %}
+      {% csrf_token %}
+      <input type="submit" class="btn btn-primary" id="rightButtton" value="Submit">
+    </form>
+  </div>
+
+
+
+  {% endblock %}

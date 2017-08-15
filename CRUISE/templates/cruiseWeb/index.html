@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+{% extends "cruiseWeb/base.html" %}
+{% load staticfiles %}
+  {% block head_block %}
+  <title>CRUISE: Home</title>
+  <link href="https://fonts.googleapis.com/css?family=Luckiest+Guy" rel="stylesheet"/>
+  {% endblock %}
+  {% block body_block %}
+  <div class="mainpageBody">
+    <div class="container">
+      <div class="jumbotron" id="centerdiv">
+        <div class="row">
+          <div class="col-lg-6">
+            <h1 class="dead">CRUISE</h1>
+            <hr>
+            <h3>A Twitter-Sourced Traffic Reporting System</h3>
+          </div>
+          <div class="col-lg-6">
+            <img class="media-object right" src="{% static "images/phone.png"%}">
+          </div>
+
+        </div>
+      </div>
+      </div>
+  </div>
+
+
+  {% endblock %}

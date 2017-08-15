@@ -1,0 +1,11 @@
+<div class="container">
+  <form method="POST">
+      <h3 class="tweet">{{text}}</h3>
+      <!-- {{form.tweet.tweetText}}
+      {{form.text}} -->
+      {{form.as_p}}
+      {% csrf_token %}
+      <input type="submit" class="btn btn-primary" id="rightButtton" value="Submit">
+      <hr>
+  </form>
+</div>

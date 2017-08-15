@@ -1,0 +1,81 @@
+#kltu 1609 E11 LDP: earlier reported acc involving 3 cars at KM9.4 from Taman Megah to  SS2 has just been cleared .
+#kltu 1610 E1 NKVE: the earlier stalled lorry at the Shah Alam Interchange  to  Seafield has been cleared and all lanes reopened.
+#kltu 1610 Federaleral Highway: traffic is stol backed up from PJ Hilton  to  the LDP Interchange
+#penangtu 1610 E36, the Penang Bridge; traffic is clear in both directions between Prai and the Island
+#penangtu 1808  E36 Penang Bg; traffic is busy from KM1 to the Prai exit  to Seberang Jaya, oppo traffic remains heavy but moving from Prai to the island
+#kltu 1810 Federaleral highway: traffic is now backed up from AMCORP Mall to Midvalley, after PJ Hilton to  the LDP and from the Sg Rasau Toll to  Klang
+#kltu 1811 E6 ELITE: consignment of the earlier sideturned trailer, USJ Interchange Ramp A to the USJ exit, in the process of being cleared
+#kltu 1811 E6 ELITE: expect delays from Shah Alam to  Seafield and from Bndari Saujana Putra to  Putra Heights.
+#kltu 1812 E11 LDP: slow from Taman Tun to  the Cable Bridge, from Jalan Majlis to  SS2, from the Cable bridge to  the Sunway Toll Plaza
+#kltu 1813 E11 LDP: also expect delays from Puchong Jaya to  Pusat Bandar Puchong
+#kltu 1813 traffic is backed up along:Jalan Damansara: from the National Museum to Jalan Istana
+#kltu 1814 Jalan Tun Razak: expect delays from IJN to  the Pahang rbt and from the Intermark bldg  to  the Kg Pandan roundabout
+#kltu 1814 MRR2: traffic is backed up from Taman Melati and Pandan Jaya  to Ukay Heights possibly due to an accident in the area
+#kltu KESAS: accident at KM32.8 near HICOM. jam from Kota Kemuning and Seafield
+#kltu Jalan Sg Buloh: Wazers report accident near Prima Damansara causing delays from Kepong, call us if you know more
+#kltu 1815 MRR2: possible acc near Taman Melati, affecting the Duke , from Setiawangsa. Also, expect delays from Sri Petaling  to Taman Connaught
+#kltu MRR2 : stol the same, accident near Flamingo hotel blocking the slow lane is the cause for the jam from DUKE and Desa Melawati
+#kltu ELITE: jam from Shah Alam to Seafield
+#kltu 1816 E26 SKVE: traffic is backed up from IOI Putrajaya  to Uniten due to a stalled car at KM1.6 , obstructing the left lane
+#kltu SKVE: slow from the Putrajaya IOI mall to UNITEN
+#kltu 1816 E37 East West Link: traffic is backed up from Desa Waterpark  to the Federalertal Highway and from the Kwangtong Chinese Cemetery to Taman Connaught
+#kltu Jalan Puchong: Wazers report accident at Kg Pasir causing congestion at location
+#kltu 1914 Jalan Sultan Yahya Petra: traffic is slow from Menara Celcom  to the Duke Highway
+#kltu LDP: officials report rain adding to the crawl from TTDI to Taman Megah and the Sunway toll to Puchong
+#kltu KESAS: expect delays for 30 minutes because of the crawl from the Kewajipan interchange to HICOM
+#kltu Jalan Sultan Ismail: Quill City mall to Wisma Genting #Waze shows 30 minute delay
+#kltu Jalan Stonor to Jalan Conlay #Waze shows 30 minute delay
+RT #kltu 1912 E23  SPRINT: is backed up from Section 17 to Kayu Ara, and also from Kiara to Sri Hartamas and the Maarof Intersection.
+RT #kltu Jalan Sultan Ismail: Quill City mall to Wisma Genting #Waze shows 30 minute delay
+RT #kltu Jalan Stonor to Jalan Conlay #Waze shows 30 minute delay
+RT #kltu KESAS: expect delays for 30 minutes because of the crawl from the Kewajipan interchange to HICOM
+RT #penangtu 1910 E36 Penang Bd; traffic is backed up the entire stretch to the Prai exit  to  Permatang Pauh, oppo traffic remains h
+#kltu 1532:Federaleral Highway; traffic is backed up after the LDP Interchange to Midvalley and from PJ Hilton to the LDP.
+#kltu 1532:KL busy on Jalan Yap Kwan Seng: both directions between Studio 99 and Menara Public Bank
+#kltu 1533:KL also busy on Jalan Syed Putra: from Midvalley and the Sultan mohd roundabout to the Kuen Cheng School
+#kltu 1534:E11:the LDP: traffic is backed up in both directions between Jalan Majlis and SS2, and also from Mutiara Damansara to Taman tun.
+#kltu 1534:MRR2: traffic is stol slow moving from Sri Petaling toBndari Tasek Selatan due to an earlier stalled car which has been cleared.
+RT: RT  Subang Airport Road: flash flood near Citta Mall and there is a standstol from after the Skypark roundabout
+KESAS: landslide near the Kewajipan interchange heading to Subang. Its blocking the left lane and causing
+#penangtu 1602  E36, the Penang Bridge:  traffic is clear in both directions between the island and the mainland.
+#kltu 1602 Federaleral Highway: traffic is backed up from the Kayangan rbt to Batu Tiga Intersection due to faulty traffic lights at this location
+#kltu 1602 Federaleral Highway: also expect delays from AMCORP Mall to KGNS and Midvalley.
+#kltu 1602 E1 NKVE: 3km crawl from Shah Alam to Setia Alam due to acc involving a 4wd at KM4.8 which is possibly stol being cleared
+#kltu 1603 E1: flash flood near the Shah Alam Interchange, obstructing all lanes and causing a crawl from Setia Alam. Pls exit out at Subang
+#kltu 1604 E5:KESAS: traffic is at a  crawl from Seafield  to Persiaran Kewajipan due to an earlier landslide on Ramp D. Obstructing LL
+#kltu 1605 E5 KESAS: (Cont) a contraflow lane has been activated at KM37.9
+#kltu 1605 E6:ELITE: earlier acc involving a van and a lorry at KM11.9, from Putra Heights to USJ, obstructing ML. 6km crawl from Bndari Saujana Putra
+#kltu 1606 In Subang: on the Subang Airport road: traffic is backed up from Citta Mall to Federaleral Highway due to 2 stalled vehicles at this location
+#penangtu 1842 E36, the Penang Bridge:  traffic is slow the entire stretch  to  the Seberang Prai exit and straight on towards Permatang Pauh
+#kltu 1843 E5 KESAS: landslide at Kewajipan intersection,will take some time to be cleared off.Traffic remains at a 2 KM crawl in both sides
+#kltu 1844 E5 KESAS: Acc involving a lorry at KM21.3, after the Jalan Kebun intersection to Bandar Botanik, its on the EL. 2KM crawl
+#kltu 1844 E23, the KERINCHI LINK: traffic is slow from the Pantai toll to KL via the Federaleral Highway
+#kltu 1844 FEDERAL Highway:traffic is backed up from Amcorp Mall to Midvalley and LDP interchange,Batu 3 toll and Kayangan rbt to Batu 3 intersection
+#kltu 1845 FEDERAL Highway: (cont) also from Sg Rasau toll to Klang
+#kltu 1846 KL: expect delays along Jalan Damansara, in both directions at the National Museum
+#kltu 1846 KL: expect delays along  Jalan Kuching, from PWTC to Taman Wahyu
+#kltu 1846  The earlier mentioned Shah Alam flash floods, along E1, the NKVE: and all lanes have been reopened at the Shah Alam interchange.
+#kltu NKVE: the flood at the Shah Alam toll is receding, continue to expect delays from Shah Alam. on the ELITE
+#kltu PLUS: early info accident at KM256.3, its congested from the Menora tunnel to Kuala Kangsar
+#kltu 1847 In Shah Alam, the flash floods at the surrounding areas of Sec13, have receded as well.
+#kltu KESAS: landslide near the Kewajipan interchange to Subang is stol blocking the left lane. stol slow from
+#kltu ELITE : Wazers report an accident before Bandar Puteri that is causing a crawl from Jalan Kebun
+#kltu More than 1 hour delay on Jalan Tuanku Abdul Rahman from Chow Kit to Jalan Sultan Ismail
+#kltu 1745 E36 Penang Bridge: (Cont) traffic remains backed up along the Tun Dr Lim Chong Eu Expressway, from the Jalan Sg Pinang intersection
+#penangtu 1745 E36 Penang Bridge: (Cont) traffic remains backed up along the Tun Dr Lim Chong Eu Expressway, from Jalan Sg Pinang intersection
+#penangtu 1746 Do expect delays at the Seberang Prai exit
+#kltu 1746 E6, the ELITE: expect delays from Bandar Saujana Putra to Putra Heights and in both directions between Shah Alam and USJ
+#kltu 1746 E10, the NPE: traffic is backed up from Bangsar to Pantai Dalam and Bandar Sunway to the Kewajipan roundabout
+#kltu 1746 PLUS North: fatal acc at KM 166.9, from Jawi southbound to Bandar Baru, is stol being cleared and traffic remains at a 3 KM crawl
+#kltu KARAK HIGHWAY: 8KM jam from the Bentong toll to Lentang due to ongoing roadworks on the left lane at KM52.4. More than 1 hour delay
+#kltu 1747 E8, the Karak Highway: The construction works at KM 52.4,  from Bentong westbound to Lentang, is stol blocking the LL. a 9KM crawl
+#kltu 1747 E8, the Karak Highway: The construction works at KM 52.4,  from Bentong westbound to Lentang, is stol blocking the LL.  9KM crawl
+#kltu PULAU INDAH HIGHWAY: the accident on the right lane near the Muhibbah bridge is stol there and causing a long crawl from Westport
+#kltu ELITE: jam from the Dengkil rest area to Saujana Putra as there is early info of an accident in the area
+#kltu 1747 KL,  expect delays along   Jalan  Tun Perak, in both directions at the Masjid Jamek LRT station
+#kltu LDP: 30 minutes delay from Tropicana city mall to the Sunway toll.
+RT #kltu 1508 Federaleral Highway; traffic is stol slow from Templer to the LDP and from AMCORP Mall to Midvalley
+#kltu 1509 PLUS North: 6km crawl from Bandar Baru to Bukit Merah due to the ongoing construction works at KM180.9. A contraflow has been activated
+#kltu 1510 PLUS North: expect delays from Padang Rengas southbound to Kuala Kangsar due to road works at KM236 on the EL and LL. 1km crawl.
+#kltu 1511  PLUS North: traffic is also slow moving from the Tapah Rest Area southbound to Bidor
+#kltu 1511 KL: traffic is busy along  Jalan Tun Razak: both directions between the RHB Bldg and the Spore High Comm
